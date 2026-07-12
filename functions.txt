@@ -1,0 +1,19 @@
+Higher-Order Functions
+Array Methods That Take Callbacks
+Finding an Array Element
+Filtering the Elements of an Array
+
+Transforming Each Element of an Array
+
+
+func one_find(){
+    /// Find an array
+}
+
+func two_filter(){
+    //filter an array
+}
+
+func transform(){
+    
+}
